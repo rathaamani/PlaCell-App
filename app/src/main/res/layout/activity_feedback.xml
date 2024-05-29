@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".Feedback"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FeedBacks"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        />
+
+    <EditText
+        android:id="@+id/doubttext"
+        style="@style/roundededittext"
+        android:layout_width="369dp"
+        android:layout_height="113dp"
+        android:gravity="start"
+        android:hint="Enter your Doubt"
+        android:inputType="textMultiLine" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/phnotext"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            style="@style/roundededittext"
+            android:hint="Enter phonenumber"
+            android:inputType="number"
+            />
+        <Button
+            android:id="@+id/sendsms"
+            android:text="SMS"
+            style="@style/redbutton"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/emailtext"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            style="@style/roundededittext"
+            android:hint="Enter email id"
+            android:inputType="textEmailAddress"
+            />
+        <Button
+            android:id="@+id/sendemail"
+            android:text="Email"
+            style="@style/redbutton"
+            />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_image_orange"
+        android:text="Location" />
+
+
+</LinearLayout>

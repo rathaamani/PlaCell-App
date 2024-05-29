@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout
+    android:background="#2196F3"
+    android:paddingTop="40dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:gravity="top"
+    android:layout_height="250dp"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView android:background="@drawable/rounded_image_orange" android:layout_height="85dp" android:layout_width="85dp" app:srcCompat="@android:drawable/star_big_on" android:layout_gravity="center_horizontal" android:id="@+id/navHeadImage"/>
+
+    <TextView android:gravity="center" android:layout_height="40dp" android:layout_width="match_parent" android:id="@+id/navHeadName" android:textStyle="bold" android:textSize="28dp" android:textColor="@android:color/primary_text_dark_nodisable" android:text="admin" android:layout_marginTop="8dp"/>
+
+    <TextView android:gravity="center" android:layout_height="40dp" android:layout_width="match_parent" android:id="@+id/navHeadEmail" android:textSize="17dp" android:textColor="@android:color/primary_text_dark_nodisable" android:layout_marginTop="8dp"/>
+
+</LinearLayout>

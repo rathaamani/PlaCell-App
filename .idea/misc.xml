@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/drawable-v24/buttonselected.xml" value="0.26614583333333336" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/drawable/textbox.xml" value="0.26614583333333336" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/custom_spinner.xml" value="0.3625" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/fragment_newsfeed.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/fragment_ongoing_previous.xml" value="0.264" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/fragment_story.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/insert_newsfeed.xml" value="0.3625" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/insert_ongoing.xml" value="0.3625" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/insert_story_layout.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/nav_header_layout.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/newsfeed_card_layout.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/newsfeed_popup.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/ongoing_card_layout.xml" value="0.3625" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/previous_card_layout.xml" value="0.264" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/profile.xml" value="0.264" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/story_card_layout.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/story_popup.xml" value="0.25" />
+        <entry key="..\:/PlaCell-App-master/app/src/main/res/layout/view_ongoing.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
